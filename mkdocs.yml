@@ -19,13 +19,13 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: My Docs
-site_url: https://squidfunk.github.io/mkdocs-material-example-versioning/
-site_author: Martin Donath
+site_name: Test Mike Stones
+site_url: https://stlorenzo.github.io/mkdocs-material-example-versioning
+site_author: StriderXR
 
 # Repository
 repo_name: squidfunk/mkdocs-material-example-versioning
-repo_url: https://github.com/squidfunk/mkdocs-material-example-versioning
+repo_url: https://github.com/STLorenzo/mkdocs-material-example-versioning
 edit_uri: ""
 
 # Configuration
